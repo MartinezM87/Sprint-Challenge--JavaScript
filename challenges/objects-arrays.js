@@ -50,7 +50,7 @@ console.log(dinosaur1.peroid);
 
 
 // Create a new roar method for the tyrannosaurus.  When called, return "RAWERSRARARWERSARARARRRR!" Log the result.
-console.log(dinosaur1.roar);
+console.log(dinosaur1.roar());
 
 
 // ==== Arrays ====
